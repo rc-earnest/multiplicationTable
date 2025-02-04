@@ -2,7 +2,7 @@
 'RCET 2265
 'Spring 2025
 'Multiplication Table
-'
+'https://github.com/rc-earnest/multiplicationTable.git
 Option Explicit On
 Option Strict On
 Option Compare Text
