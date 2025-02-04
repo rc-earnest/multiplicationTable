@@ -41,7 +41,7 @@ Module multiplicationTable
             For j = 1 To firstNumber
 
                 result = (i * j).ToString()
-                result = result.PadLeft(8)
+                result = result.PadLeft(6)
                 Console.Write(result)
             Next
             Console.WriteLine()
